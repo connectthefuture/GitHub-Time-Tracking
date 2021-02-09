@@ -33,7 +33,7 @@ GEM
       rack
     rack-test (0.5.7)
       rack (>= 1.0)
-    rake (10.1.1)
+    rake (13.0.3)
     randexp (0.1.7)
     rspec (2.4.0)
       rspec-core (~> 2.4.0)
