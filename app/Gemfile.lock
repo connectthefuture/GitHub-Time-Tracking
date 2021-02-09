@@ -28,7 +28,7 @@ GEM
     numerizer (0.1.1)
     octokit (2.7.1)
       sawyer (~> 0.5.2)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-protection (1.5.2)
       rack
     rack-test (0.5.7)
